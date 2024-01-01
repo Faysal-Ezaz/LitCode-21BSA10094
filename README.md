@@ -4,7 +4,9 @@ All the Litcode solved problems will be stored here
 
 The solution for all the lab problems have been uploaded.  
 
-<h2>Structure of the Repo so far: (LABS)</h2> 
+## Structure of the Repo so far: (LABS) 
+<details>
+  <summary>Click on this to view the <b>Structure</b></summary>
 <ul>
   <li><b>Module-1</b>
     <ul>
@@ -77,3 +79,4 @@ The solution for all the lab problems have been uploaded.
     </ul>
   </li>
 </ul>
+</details>
